@@ -1,0 +1,40 @@
+.survey {
+  margin-left: auto;
+  width: 50%;
+  /*min-width:300px;
+  width:60vw; */
+  margin-right: auto;
+  background-color: midnightblue;
+  padding-left: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+#description {
+  text-align: center;
+}
+h1 {
+  text-align: center;
+}
+
+/*input[type="submit"]{
+      display: block;
+      width: 90%;
+      background-color: darkgreen; }*/
+.sub {
+  width: 90%;
+  padding: 0.7rem;
+  border-radius: 6px;
+  font-size: 1rem;
+  border: none;
+}
+#submit {
+  background: rgb(9, 168, 89);
+}
+
+body {
+  /*background-image:url("./IMAGES/tree.jpg");*/
+  background-color: cornflowerblue;
+  font-family: system-ui, sans-serif;
+  color: white;
+  font-size: large;
+}
