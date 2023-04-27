@@ -32,7 +32,7 @@ h1 {
 }
 
 body {
-  background-image:url("./IMAGES/tree.jpg");
+  background-image:url("tree.jpg");
   /*background-color: cornflowerblue;*/
   font-family: system-ui, sans-serif;
   color: white;
