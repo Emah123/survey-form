@@ -32,8 +32,8 @@ h1 {
 }
 
 body {
-  /*background-image:url("./IMAGES/tree.jpg");*/
-  background-color: cornflowerblue;
+  background-image:url("./IMAGES/tree.jpg");
+  /*background-color: cornflowerblue;*/
   font-family: system-ui, sans-serif;
   color: white;
   font-size: large;
